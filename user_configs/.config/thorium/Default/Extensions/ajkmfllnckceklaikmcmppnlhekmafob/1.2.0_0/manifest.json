@@ -1,0 +1,21 @@
+{
+   "app": {
+      "launch": {
+         "local_path": "index.html"
+      }
+   },
+   "content_security_policy": "script-src 'self' https://clay.io https://clay.io:846; object-src 'self'",
+   "description": "Use yer jets to knock the enemy down!",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "256": "icon-256.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhz1smEyg5Xc1CfwOTbLUUc0bgRCoI9NhpO9dgLewAwyIYuBGlmJ1CrRIREPsQA5zY+Ad7Q5w7Fp9jtDfUaFBMZYWXHQcSNFBliBhf0hdHiVQgu77IfuJIaCY3BxBpfb+UcXOjxQGpKvgRn29nj5L0eZoRFuLBKajDjyoE6NCjVCiziLW0mv0ucmTpNMqHIgLfGh/wnmi4LUaZH/4XGKBHCF9ELcGAfRLapA1ay3rpBEPPfqLLBWQxam0ISisuG37KtFa89dOTi9UQjAXOqlOtih0RQ0wBISndjWyYgsRAnVBs00k1o8fIwADMXPe6VqtcDSSIdTRdkMN2riLH6/g5QIDAQAB",
+   "manifest_version": 2,
+   "name": "Jet Attack!",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.0"
+}

@@ -1,0 +1,26 @@
+2024/07/30-21:51:59.098 41b Reusing MANIFEST /home/mallarb/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
+2024/07/30-21:51:59.098 41b Recovering log #73
+2024/07/30-21:51:59.099 41b Reusing old log /home/mallarb/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000073.log 
+2024/07/30-21:52:38.795 41c Level-0 table #77: started
+2024/07/30-21:52:38.823 41c Level-0 table #77: 4208834 bytes OK
+2024/07/30-21:52:38.833 41c Delete type=0 #73
+2024/07/30-21:53:33.209 41c Level-0 table #79: started
+2024/07/30-21:53:33.241 41c Level-0 table #79: 4161267 bytes OK
+2024/07/30-21:53:33.242 41c Delete type=0 #76
+2024/07/30-21:53:33.243 41c Compacting 4@0 + 3@1 files
+2024/07/30-21:53:33.261 41c Generated table #80@0: 4 keys, 2509444 bytes
+2024/07/30-21:53:33.277 41c Generated table #81@0: 6 keys, 2509899 bytes
+2024/07/30-21:53:33.292 41c Generated table #82@0: 3 keys, 2355409 bytes
+2024/07/30-21:53:33.305 41c Generated table #83@0: 9 keys, 992076 bytes
+2024/07/30-21:53:33.306 41c Compacted 4@0 + 3@1 files => 8366828 bytes
+2024/07/30-21:53:33.307 41c compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/07/30-21:53:33.307 41c Delete type=2 #74
+2024/07/30-21:53:33.307 41c Delete type=2 #79
+2024/07/30-21:53:33.307 41c Delete type=2 #77
+2024/07/30-21:53:33.307 41c Delete type=2 #68
+2024/07/30-21:53:33.307 41c Delete type=2 #69
+2024/07/30-21:53:33.307 41c Delete type=2 #67
+2024/07/30-21:53:33.307 41c Delete type=2 #71
+2024/07/30-21:53:36.230 41b Level-0 table #85: started
+2024/07/30-21:53:36.284 41b Level-0 table #85: 6116317 bytes OK
+2024/07/30-21:53:36.286 41b Delete type=0 #78

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Krótki opis rozszerzenia wyświetlany w sklepie internetowym",
+      "message": "Łatwa i bezproblemowa ochrona prywatności w przeglądarce."
+   },
+   "appName": {
+      "description": "Tytuł rozszerzenia wyświetlany w sklepie internetowym",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

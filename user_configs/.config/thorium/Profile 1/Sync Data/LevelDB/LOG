@@ -1,0 +1,6 @@
+2024/07/31-17:43:03.058 a1b Reusing MANIFEST /home/mallarb/.config/thorium/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2024/07/31-17:43:03.059 a1b Recovering log #50
+2024/07/31-17:43:03.060 a1b Reusing old log /home/mallarb/.config/thorium/Profile 1/Sync Data/LevelDB/000050.log 
+2024/07/31-17:43:38.386 a1c Level-0 table #55: started
+2024/07/31-17:43:38.390 a1c Level-0 table #55: 101322 bytes OK
+2024/07/31-17:43:38.391 a1c Delete type=0 #50

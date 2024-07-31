@@ -1,0 +1,12 @@
+2024/07/30-15:38:37.309 181f Reusing MANIFEST /home/mallarb/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/30-15:38:37.310 181f Recovering log #41
+2024/07/30-15:38:37.324 181f Reusing old log /home/mallarb/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000041.log 
+2024/07/30-15:54:59.532 181f Level-0 table #46: started
+2024/07/30-15:54:59.554 181f Level-0 table #46: 1184441 bytes OK
+2024/07/30-15:54:59.557 181f Delete type=0 #41
+2024/07/30-16:13:03.274 1821 Compacting 1@1 + 1@2 files
+2024/07/30-16:13:03.285 1821 Generated table #47@1: 333 keys, 32195 bytes
+2024/07/30-16:13:03.286 1821 Compacted 1@1 + 1@2 files => 32195 bytes
+2024/07/30-16:13:03.287 1821 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/30-16:13:03.290 1821 Delete type=2 #46
+2024/07/30-16:13:03.290 1821 Delete type=2 #43

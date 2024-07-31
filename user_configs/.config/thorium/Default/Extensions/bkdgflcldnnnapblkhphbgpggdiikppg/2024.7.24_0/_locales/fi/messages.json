@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Laajennuksen lyhyt kuvaus, joka näytetään verkkokaupassa",
+      "message": "Yksinkertainen ja saumaton tietosuoja selaimeesi."
+   },
+   "appName": {
+      "description": "Laajennuksen nimi, joka näytetään verkkokaupassa",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

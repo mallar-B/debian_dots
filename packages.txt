@@ -1,0 +1,23 @@
+-- --no-install-recommends --no-install-suggests sddm sddm-theme-debian-breeze i3 btop git xz-utils tar curl wget neofetch dmenu
+i3lock
+xorg
+## thorium-browser
+unzip
+libglib2.0-bin
+pavucontrol
+thunar
+## proton-vpn-gnome-desktop
+iptables
+xclip
+## protonvpn
+gcc
+xterm
+feh
+nitrogen
+flatpak
+xautolock
+imagemagick
+scrot
+fzf
+xdotool
+gh

@@ -1,0 +1,22 @@
+{
+   "command_toggle_centered": {
+      "message": "Перемкнути по центру"
+   },
+   "command_toggle_refresh": {
+      "message": "Загальне перезавантаження"
+   },
+   "command_toggle_side": {
+      "message": "Перемкнути бічну панель"
+   },
+   "command_toggle_theme": {
+      "message": "Перемкнути тему"
+   },
+   "ext_desc": {
+      "description": "Підтримка перегляду file://, http://, https:// посилань та файлів розширення *.md, *.mkd, *.markdown.",
+      "message": "Розширення для читання markdown для Chrome."
+   },
+   "ext_name": {
+      "description": "Розширення для читання markdown для Chrome.",
+      "message": "Markdown Reader"
+   }
+}

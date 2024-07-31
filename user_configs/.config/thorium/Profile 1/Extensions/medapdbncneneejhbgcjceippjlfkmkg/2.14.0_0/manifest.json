@@ -1,0 +1,63 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "Markdown Reader"
+   },
+   "author": "Bener",
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "commands": {
+      "toggleCentered": {
+         "description": "__MSG_command_toggle_centered__",
+         "suggested_key": {
+            "default": "Alt+Shift+C"
+         }
+      },
+      "toggleRefresh": {
+         "description": "__MSG_command_toggle_refresh__",
+         "suggested_key": {
+            "default": "Alt+Shift+R"
+         }
+      },
+      "toggleSide": {
+         "description": "__MSG_command_toggle_side__",
+         "suggested_key": {
+            "default": "Alt+Shift+B"
+         }
+      },
+      "toggleTheme": {
+         "description": "__MSG_command_toggle_theme__",
+         "suggested_key": {
+            "default": "Alt+Shift+T"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "css/content.css" ],
+      "js": [ "js/content.js" ],
+      "matches": [ "*://*/*.md", "*://*/*.mdx", "*://*/*.mkd", "*://*/*.markdown", "*://*/*.MD", "*://*/*.MDX", "*://*/*.MKD", "*://*/*.MARKDOWN", "file://*/*.md", "file://*/*.mdx", "file://*/*.mkd", "file://*/*.markdown", "file://*/*.MD", "file://*/*.MDX", "file://*/*.MKD", "file://*/*.MARKDOWN", "*://*/*.md?*", "*://*/*.mdx?*", "*://*/*.mkd?*", "*://*/*.markdown?*", "*://*/*.MD?*", "*://*/*.MDX?*", "*://*/*.MKD?*", "*://*/*.MARKDOWN?*", "file://*/*.md?*", "file://*/*.mdx?*", "file://*/*.mkd?*", "file://*/*.markdown?*", "file://*/*.MD?*", "file://*/*.MDX?*", "file://*/*.MKD?*", "file://*/*.MARKDOWN?*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_ext_desc__",
+   "icons": {
+      "128": "images/logo-stroke.png",
+      "16": "images/logo-stroke.png",
+      "32": "images/logo-stroke.png",
+      "48": "images/logo-stroke.png",
+      "512": "images/logo-stroke.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtq6Mby/quPWXBbPep/FZ200nMK9h0+WJ0LGnZSL7bf1h2YX+O1dQZKBhIDUpA0TDSx/65Y4pxel38Mb/MXcleyogMCIn01diBMawYEo9pUOdVobB6Mjgqd5l6i1r7njsdiAFxjtBHxGrNMsr/j17aGjLROhuVeJpvAVi6jRwTtIOwex/LCyGOV6/+0d2YvnC8TRJrMo3prTLQeAIMxwzjY4p6gyIeGwEyg6C9P3df/q/63x/XOQnOSYavJ4oTQvhPGW7x69TVFD/pnw0BZP7TQqNJX2obMQpXexT3svwBRD2W7yvGv9lB1IOl4m8Aiq5biYrIwt1fh5Lj1G10Zv4QQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_ext_name__",
+   "permissions": [ "storage" ],
+   "short_name": "MD Reader",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.14.0",
+   "version_name": "2.14.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "css/*", "fonts/*", "images/*" ]
+   } ]
+}

@@ -1,0 +1,9 @@
+#!/bin/sh
+# Xsetup - run as root before the login dialog appears
+
+if [ -e /sbin/prime-offload ]; then
+    echo running NVIDIA Prime setup /sbin/prime-offload
+    /sbin/prime-offload
+fi
+
+xrandr -s 1920x1080

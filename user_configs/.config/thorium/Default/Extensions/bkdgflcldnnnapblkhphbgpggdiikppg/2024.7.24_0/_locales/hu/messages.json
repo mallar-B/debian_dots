@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "A bővítmény webáruházban megjelenített rövid leírása",
+      "message": "Egyszerű és folyamatos adatvédelem a böngésződhöz."
+   },
+   "appName": {
+      "description": "A bővítmény webáruházban megjelenített neve",
+      "message": "DuckDuckGo Privacy Essentials"
+   }
+}

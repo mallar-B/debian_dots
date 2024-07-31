@@ -1,0 +1,13 @@
+[Unit]
+Description=Inhibit xautolock when audio is playing
+After=graphical.target
+
+[Service]
+Type=simple
+ExecStart=/home/mallarb/.local/bin/inhibit-xautolock.sh
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=default.target
+

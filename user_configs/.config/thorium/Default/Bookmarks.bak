@@ -1,0 +1,160 @@
+{
+   "checksum": "1dc3c793a9f7efb6fd2c257f9da6153a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13329326628748585",
+            "date_last_used": "0",
+            "guid": "f83092f3-dbd8-4ccc-9c87-7ac8db13c080",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13329326628749521",
+            "date_last_used": "13329326776870542",
+            "guid": "87ce26a0-770c-4f74-910d-b875804ea252",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13329326637666386",
+            "date_last_used": "0",
+            "guid": "06f2b123-8702-48a0-83cd-899234791496",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13329345091380817",
+            "date_last_used": "0",
+            "guid": "dad80526-e356-469d-8ffa-c4cc001025bc",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Apps",
+            "type": "url",
+            "url": "chrome://apps/?showDeletionDialog=ldfmjnlghddcjpboloecgkflfednighd"
+         } ],
+         "date_added": "13366660364921534",
+         "date_last_used": "0",
+         "date_modified": "13329345091380817",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13265501641647067",
+               "date_last_used": "0",
+               "guid": "8ea4a55f-82a1-4a01-8d9a-bff60635d3bf",
+               "id": "6",
+               "name": "Do not edit or delete the bookmark's folder | Station's Frequently Asked Questions",
+               "type": "url",
+               "url": "https://faq.stationhq.com/en/articles/4810810-do-not-edit-or-delete-the-bookmark-s-folder"
+            } ],
+            "date_added": "13274577961847081",
+            "date_last_used": "0",
+            "date_modified": "13274577961847081",
+            "guid": "a90962f7-ae32-468a-9c77-1f4b2f469fd9",
+            "id": "5",
+            "name": "Station Pinned Resources",
+            "type": "folder"
+         }, {
+            "date_added": "13366654333033902",
+            "date_last_used": "0",
+            "guid": "52d6ce85-ae4e-4c6c-bbab-be4464ef1c9e",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Set Icon Theme for GTK Applications | Baeldung on Linux",
+            "type": "url",
+            "url": "https://www.baeldung.com/linux/gtk-set-icon-theme"
+         } ],
+         "date_added": "13366660364921536",
+         "date_last_used": "0",
+         "date_modified": "13366654333033902",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13192659037433970",
+            "date_last_used": "0",
+            "guid": "553632e6-93a6-42de-8b97-8b1fdac28105",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13195834256071331"
+            },
+            "name": "Animes Series",
+            "type": "url",
+            "url": "https://www5.dubhappytv.com/anime-series?letter=S"
+         }, {
+            "date_added": "13242553418979524",
+            "date_last_used": "0",
+            "guid": "15244d1e-9778-4273-b473-8caa1adbc36d",
+            "id": "9",
+            "name": "adfdfdfffff",
+            "type": "url",
+            "url": "https://www.miniclip.com/games/bubble-trouble/en/"
+         }, {
+            "date_added": "13243013824444735",
+            "date_last_used": "0",
+            "guid": "48431250-ce87-4172-832b-86b4720acbae",
+            "id": "10",
+            "name": "Animes Series",
+            "type": "url",
+            "url": "https://dubhappy.net/anime-series?letter=D"
+         }, {
+            "date_added": "13245167869551536",
+            "date_last_used": "0",
+            "guid": "96eddaae-92a2-4907-8509-1d8c810d98ff",
+            "id": "11",
+            "name": "IPACCT | User information portal",
+            "type": "url",
+            "url": "http://10.254.254.63/0/up/"
+         }, {
+            "date_added": "13253220606827623",
+            "date_last_used": "0",
+            "guid": "927f20d5-f7ac-4e28-a5b3-d0ae17b8e742",
+            "id": "12",
+            "name": "Jet Attack!",
+            "type": "url",
+            "url": "chrome-extension://ajkmfllnckceklaikmcmppnlhekmafob/index.html"
+         }, {
+            "date_added": "13285692618238417",
+            "date_last_used": "0",
+            "guid": "953af945-e936-4dc7-81f1-b21697bf525e",
+            "id": "13",
+            "name": "skribbl - Free Multiplayer Drawing & Guessing Game",
+            "type": "url",
+            "url": "https://skribbl.io/?sMZZaTD7nwQ3"
+         } ],
+         "date_added": "13366660364921541",
+         "date_last_used": "0",
+         "date_modified": "13285692618238417",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrcDCpYDCIiBAhKPAyAAkgGJAwq/AgoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJCoOz5FEeBgARCoOz5FEeBgAiMQnkxqzkUR4GABAGGWHAHn50Gx4QIAEqGTUxIWJtOjgzNDgyMzY4MjYzODAyODY5MjgiNAkEjvnjUR4GABADGeR1pjcoG+MJIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkEjvnjUR4GABADGeR1pjcoG+MJIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkEjvnjUR4GABADGeR1pjcoG+MJIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkEjvnjUR4GABADGeR1pjcoG+MJIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpXku05FEeBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAxtXeUR4GABEAxtXeUR4GACl0jLPkUR4GADCAjNf2ncqHAxIAKhhXQUt2YThFelpHdEN3b2NtbFVXcmtnPT1IAxLsAQgREucBChxMNGhUSms1NFo1MFJJRWE3YzlqNlU0RzdqWTA9EmZaOkFEcXRBWnd0NVpDTy9wUjZmVmJrOHdtUVEvZnJ3dDU5WlN5NTYxWUM3NzZRTXVoYkVOM3lnMlJqbndvWVRVMVMwY3lkMzlCU0lST3BMM2pQSEtGb01ZSHFrR2hUSVlZNmJnPT0YACAAKAAwmI+Dt5uM/wI4td6q0YQxQLXeqtGEMUocbGdrVWxxajEyS1o5UG93L09PSDVBQWF3L1ZrPVofIh3uWGVVdldGYzFQNEwrRWQvcm9MbmdDdytteG9JPWUXD8oBEuwBCA8S5wEKHFlpQjRmY0xTTGxmZjJkWU1CUUFuZ1pZMWhUND0SZlo6QURxdEFad3Q1WkNPL3BSNmZWYms4d21RUS9mclQ3WnBwME1RNllIQkluV0RvYnlWNWE3bzhYc1dDZlNjS1pkSWpsOHVhSklhOUpESVZiWkhXN2dPTWVYbmVSY095bVZrZWc9PRgAIAIoAjDkjbOlnsqHAzjS+NHIhDFAqaDc0o8yShw2K0dLYkIvOVFmb1g1NTJabVFYM2czQUY4OFU9Wh8iHbhBYTFtMFY1ZzA1MW5hd1k2YW5RWWxRRnI1TFk9ZTj5OTMS6wEIDhLmAQocaGJISlVLNGhLWDJjVHVrYTVaWnh5eTFYdnlBPRJmWjpBRHF0QVp3dDVaQ08vcFI2ZlZiazh3bVFRL2ZySzIyS3Z2TXV4TmMvYXNhVVpHeTE5OVRrMitTQTRPUUFkSHQ4RDdOQWVVK1cxRHhlNStSWnMvUzVNMmpTQnV6bTlEdWZZQT09GAAgAigCMOSNs6WeyocDONH40ciEMUCpoNzSjzJKHEJCUXNRdm04V0pWczVXZ1kydGlmNENUN05HOD1aHiIccUxHcXp4aGROaG9ZMkdQN2pybHRGeVBWeTVJPWV7p0BxEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeU9zTVZvNzNvQ3BSMnF3YjBVYS94MXFsY0Z6YUZzdjgzaFY1R0xKY0h4dDV5bmwxSjZqWWdORm1UOHMwMlFRV0dpeW96ehgAIAAoADCEnOafnsqHAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEuwBCAcS5wEKHEpOYkZGYUM0T0hDdGlnTFIxUjdkUVROaE5sUT0SZlo6QURxdEFad3Q1WkNPL3BSNmZWYms4d21RUS9mclpyNU9lcUxDSmZ3bWROd2h2V3QwZ3E2ZWJCZjNzUlQySVVpS3licGNFU3JEVnV6c09iTVpmQ0I2cFdmVktGamdaenRhUUE9PRgAIAAoADCz1tWXh8qHAzjqkOLPjzJA6pDiz48yShxpcE5BaWRaaml0ZSt5NFJyOVpFMTFuUUZaYVk9Wh8iHbVQSmtxd3BoeWtIMXdtSU53bjMzeU5UbDArRVE9ZXNLfa0SrQIIChKoAgocakVGaCtCdFg2VFVyYTRjYTZVYkd5RlBCU1cwPRKmAVo6QURxdEFaeFlpZ0xuY2ZKdm1GQ3V5Qm1QTDBqVnhzdmRaRDlML24zYkdOKzNFUHRZTk9IWlgzbWhZZVVSdGFobXg3dEpTVXBYUXdQVlRRcWdVenJaaG9mc3lKYnFuT0NIVmNrUENaTU9ZVHdESmkrVU5RTldldnYvNjJSTTYvVDhOMzRycHFTZ3FFSjh3M0xvYTMwUVFHaEViWnBDMTNEYytRPT0YACAAKAAw4cuC8af/9AI4vK+wg8MuQLyvsIPDLkocMUsrL2dTMCtRRTBsRzltYkdUWE1wai9nc3MwPVofIh3UQ0RpTDNIaFhtUVZCRmJIS3hwRSthQ25PSlhzPWX+NuBOEq0CCAkSqAIKHGR2MVdRRzJTVlhmdS9Hb1lpRitLRmUrRGdTVT0SpgFaOkFEcXRBWnhZaWdMbmNmSnZtRkN1eUJtUEwwalZ4c3ZkWkQ5TC9uM2JHTiszRVB0WU5KNk1VWGlBZlAxMWloVzd5YnFHZnh0cjU3Nk16QUN0b0ZUMUJJVkpyMG1UMlJrdXJJTlpVVFovYVBJNTZiVGkxQ2F6bjJKRWJYTXVYSGkxWG03Y0oxNi9qSHcvanZnQlZrc0ZWcHE3dE9IUklya3RIQT09GAAgACgAMOHLgvGn//QCOMa766fBLkDGu+unwS5KHFNyTmZDWi83WTVObFYyL3paMVJEcVNMb2Fzdz1aHyIdqEJHTURBSzBhU015OGtiRWNvbGdrbHhkMlA3az1lAAAAABKsAggFEqcCChxPYkdxQmFCTFovZkJTRVN6M1d4c2gwVWVqQjQ9EqYBWjpBRHF0QVp4WWlnTG5jZkp2bUZDdXlCbVBMMGpWU3dTUmdLREN5YW02YTVVaFRQRzkydi9IdjFLNzhuMGE3YlZJR3d4cUpFWkkrc2VrZk04MUs0aTVzeDlXTXRnNWg4akE0dThpRXlvUWNSRmRKN1JucGVMeVl2am1WRkJtSlB3MnBLaEFvR29TVzhDa1pKN2pNTXBBSzY0ZEJwbnc1aXVUV0E9PRgAIAAoADDQw8Hwp//0Ajik57Pmli9ApOez5pYvShxZOXp6UTIyUmhFV2I4bnRqT0Q4YmxaSVJ6Ujg9Wh4iHGpPZHFWSDRKNDB4aDF5OFRRdjQ4QW5rY21UND1lAAAAABKtAggMEqgCChxIOXFWK2U1N3VVd24xaURnTTcwcUxWM3NuZGc9EqYBWjpBRHF0QVp4WWlnTG5jZkp2bUZDdXlCbVBMMGpWU3dTUmdLREN5YW02YTVVaFRQRzkyc01HdFV2YzhadTQ5Y2hicmJTWUZpSC9qRkJwTFRmMFVXYm9MNUY0UVh4eTBjeVFmckJEclhEMTZtM1VUQjBOcjVQVUU1LzNlUnFCcVllajlVQ1gycWszL0hoczNkK3d3UUVnTWdVN1haMGprT1BFaUE9PRgAIAAoADCD3K3xp//0Ajjs9qyG6S5A7PashukuShxzcm5rRjdFYWlCUVFxUUd2VVJuNk4rams1YmM9Wh8iHfVhcm9tbzJFNWwvUWpmbWErOUVEeVA2YXdVSmM9ZQAAAAASrAIICBKnAgocdzhXZ2RkVmU3ZGdJVkJLR25CQ1R2TVJIcTlBPRKmAVo6QURxdEFaeFlpZ0xuY2ZKdm1GQ3V5Qm1QTDBqVlhqcEs5NVZWQVNUVGdUQ1VwTVZQMkxHQTVtdG1TWjFkeEZpcXp0ZVI1alViVkxzK0ZueVZra2NxZUQ0dG9IMkRsT3h5YS93bElMSzJycWg5dWd0Wlo4OGl2UUdmTEg2ZFM5ZjJpR3pZWHBFQ0lRNnhoZmJxTTRtay8xR0d2RDF4TEp0dTRBPT0YACAAKAAw4cuC8af/9AI4/omsuIctQP6JrLiHLUocNC9PSlNLVGpXclEvNGJndlp6endyTGdyUnhBPVoeIhxQR0dUM1RUbmRBVWJHeTdwRGhrTjVQclFOUmc9ZYEVsiQSrQIICxKoAgocWUNTNy9IdENTeDBYVmNOWW51U0xPVzFlTitVPRKmAVo6QURxdEFaeFlpZ0xuY2ZKdm1GQ3V5Qm1QTDBqVnhzdmRaRDlML24zYkdOKzNFUHRZTk5iVUtMVHFaTGl3TzI0TitVbmVMSmRPWGc3V3h2eDdOaHpHSlJOZXB4SnNCSDYxeXkzNmJxRXVZdUhTWWU2Z0FQM2t0U0IyakNaRlZleVhnQXJ6T0RUNlR2OUYwOFBhRi9sNzJDd2h3RHNOVWo0ZCtnPT0YACAAKAAwyPqv59qAhwM4mO3AhssuQJjtwIbLLkocaUd3YUM1VnFiSTU0TWxIVDBJYmtJQXpNQW5rPVofIh3qVVU5NUVVdlFmRVRoNXdGNC81SUdlclhtWjFRPWULV1LUEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeFl3aEtTWUc2cC9yWlcvZnFYRkdac2J6QnYycE1OZ1BDUkg0TGpnNlRhYVhVVS90YTBzYmwvUEM3M0l0SkFWWk55Wm1zZEdXZHkvTi9qOVJpVGI0c210eHlvR1E9PRgAIAAoADCEnOafnsqHAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqwCCAYSpwIKHG9ybFBNTktnVVpGb0N5aW9XVjg3M1lUUjh5OD0SpgFaOkFEcXRBWnhZaWdMbmNmSnZtRkN1eUJtUEwwalZTd1NSZ0tEQ3lhbTZhNVVoVFBHOTJnNVhlTHJsUFRoRVRLa3pWV2Yyd1k1VkVuUUc5VmhJaDVIVFVOMjNOU3k0Z2NZSWpyV2ZlOHk4U3Z6VERxcmV3djVEckw1dWpZNFpVbm43SjBqU241QWRYVDBKNlJ4L2NrSG56aEp5ODZiS1VmU25GQT09GAAgACgAMOHLgvGn//QCOK/ns+aWL0Cv57Pmli9KHFBOZVBnalZXelBhRDF1di9wZVcrZ1RjY01URT1aHiIceEFzUUF6MGxkNStaT3oxN3ZpUzhUMSsxYXA0PWUAAAAAEuwBCA0S5wEKHDAydVBwaisrSUdVMnNRQWJZMXVidDR6YUFIYz0SZlo6QURxdEFad3Q1WkNPL3BSNmZWYms4d21RUS9mclNGM2o4SGcxT3dqTWxsaXJqNmIyUm1RL0g2UlkvQ0l6QVZBdGdnVmpubTRMNE9GcE80Zit1TlR4YzNvWkJVci8zT0U0V2c9PRgAIAAoADCW1til4ZX1Ajj+m5uC4i9A/pubguIvShxZZ2lkQUs1VnhYSytjbDdLVEhvYmRRT1l6dTQ9Wh8iHfo0alJRbnQvNE5sT1hNUVFWWWlCdjdPNmlMOEk9ZWVlYpIS7AEIEBLnAQocQ1RVTU51M2thZnhGdXJsM2Zick9WRWlzYWVZPRJmWjpBRHF0QVp3dDVaQ08vcFI2ZlZiazh3bVFRL2ZyMTlKRENmNm1EMDZRNURXSitzOHdyTmo1d1dseXhWUTY0dHFxVGpYeTlzRjJxc3QrSVRKTFNPUkdSMGVvNGsydHJTbTlSZz09GAAgAigCMOSNs6WeyocDONL40ciEMUCpoNzSjzJKHDFwSDYyMHZoRHZWQzVWb1BBdHBmMU9XY05IWT1aHyId3EgxNld6QWRYZll1anZtMkNnOHh5Zk95anl1Zz1lXCr5KhLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnhnU2FrVEdkOUJmWkhOOU9hQ1hNMkpDclUxVGMyelhIbUpqR3ZzNlNQYlRpUTc2dndrTzFGRkNIUHp5U1Y2UUJmRXFiS3A1WUExTUpWbi9EVGFoNTRiV2ozMVFRPT0YACAAKAAwhJzmn57KhwM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAADABOAA=",
+   "version": 1
+}

@@ -1,0 +1,31 @@
+{
+   "author": "RixzZ",
+   "description": "Dracula Theme (Minimal)",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwSMUKBgIdX6pmpsPvPaR6HqimWk/UWigpC+j8J1DUlZzlQYD2ofijcZ69w4WvI390xI1pHTEf0Vng/Wp1ss1mLudWgZLTLnrtRVd7ChQ8timKMtpjKAkVa+XnXrNiZnEJubGRZO2WexThm+OCgyd3UBV8QR2kg9Fy04YkIeTaE9KHtW2yy2fhCmeOYBpfV//CHkh0t/jV8eEfZz7yssnX7sGBXzxoLtYbl69euqjFCffNmi0pEkGh4Q+DOTgUHSFD81zBMIoL3DBKpwVcQe3dxhYNpEnB1v1IypNoqPHot2FEamA4jVgTKbOKlBDM8FyeOZqEuHqETyKFxFQSDu+GwIDAQAB",
+   "manifest_version": 3,
+   "name": "Dracula Theme",
+   "theme": {
+      "colors": {
+         "background_tab": [ 40, 42, 54 ],
+         "background_tab_inactive": [ 40, 42, 54 ],
+         "background_tab_incognito": [ 40, 42, 54 ],
+         "background_tab_incognito_inactive": [ 40, 42, 54 ],
+         "bookmark_text": [ 248, 248, 242 ],
+         "frame": [ 29, 30, 38 ],
+         "frame_inactive": [ 29, 30, 38 ],
+         "frame_incognito": [ 29, 30, 38 ],
+         "frame_incognito_inactive": [ 29, 30, 38 ],
+         "omnibox_background": [ 40, 42, 54 ],
+         "omnibox_text": [ 248, 248, 242 ],
+         "tab_background_text": [ 248, 248, 242 ],
+         "tab_background_text_inactive": [ 248, 248, 242 ],
+         "tab_background_text_incognito": [ 248, 248, 242 ],
+         "tab_background_text_incognito_inactive": [ 248, 248, 242 ],
+         "tab_text": [ 248, 248, 242 ],
+         "toolbar": [ 68, 71, 90 ],
+         "toolbar_button_icon": [ 248, 248, 242 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

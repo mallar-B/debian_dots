@@ -1,0 +1,5 @@
+2024/07/30-22:27:38.476 a91 Creating DB /home/mallarb/.config/thorium/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2024/07/30-22:27:38.479 a91 Reusing MANIFEST /home/mallarb/.config/thorium/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/30-22:40:43.877 a91 Level-0 table #5: started
+2024/07/30-22:40:43.889 a91 Level-0 table #5: 1208797 bytes OK
+2024/07/30-22:40:43.892 a91 Delete type=0 #3
