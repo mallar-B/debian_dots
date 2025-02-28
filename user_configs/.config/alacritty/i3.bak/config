@@ -2,8 +2,6 @@ set $mod Mod4
 font pango:monospace 8
 font pango:DejaVu Sans Mono 8
 
-
-
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id nm-applet
 exec --no-startup-id deadd-notification-center
@@ -11,10 +9,7 @@ exec --no-startup-id ~/.local/bin/idle_manager.sh
 exec --no-startup-id feh --bg-fill ~/Pictures/Wallpapers/debian.png
 exec --no-startup-id xset -dpms
 exec --no-startup-id xset s off
-exec --no-startup-id xset r rate 200 35
 exec --no-startup-id mate-polkit
-
-exec --no-startup-id i3-msg 'workspace 4; exec /home/mallar/Appimages/ferdium.AppImage'
 
 bindsym $mod+x exec "pkill deadd-notificat && deadd-notification-center"
 bindsym $mod+Control+c exec gpick -p &
@@ -38,7 +33,7 @@ floating_modifier $mod
 
 # move tiling windows via drag & drop by left-clicking into the title bar,
 # or left-clicking anywhere into the window while holding the floating modifier.
-# tiling_drag modifier titlebar
+tiling_drag modifier titlebar
 
 # start a terminal
 bindsym $mod+q exec alacritty #i3-sensible-terminal #rxvt-unicode

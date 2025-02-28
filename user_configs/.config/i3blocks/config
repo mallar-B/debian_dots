@@ -1,0 +1,58 @@
+
+# List of valid properties:
+#
+# align
+# color
+# command
+# full_text
+# instance
+# interval
+# label
+# min_width
+# name
+# separator
+# separator_block_width
+# short_text
+# signal
+# urgent
+
+# Global properties
+#
+# The top properties below are applied to every block, but can be overridden.
+# Each block command defaults to the script name to avoid boilerplate.
+command=/usr/share/i3blocks/$BLOCK_NAME
+separator_block_width=20
+markup=pango
+
+[mediaplayer]
+command=~/.config/i3blocks/modules/media.sh
+interval=2
+
+[volume]
+command=~/.config/i3blocks/modules/volume.sh
+interval=once
+signal=10
+#label=♪
+# instance=Master
+#instance=PCM
+
+[memory]
+full_text=<span>fjskl</span> 
+command=~/.config/i3blocks/modules/memory.sh
+interval=2
+label=󰍛
+markup=pango
+
+[cpu_usage]
+label=
+interval=2
+separator=false
+
+[temperature]
+label=
+interval=2
+
+[date]
+command=~/.config/i3blocks/modules/date.sh
+# command=date '+%d/%m/%Y %H:%M'
+interval=1

@@ -1,0 +1,151 @@
+/* Notification center */
+
+.blurredBG,
+#main_window,
+.blurredBG.low,
+.blurredBG.normal {
+  background: #282828;
+}
+label.deadd-noti-center.notification.appname,
+label.deadd-noti-center.notification.body,
+label.deadd-noti-center.notification.title,
+button.deadd-noti-center.notification.actionbutton,
+label.deadd-noti-center.in-center.appname,
+label.deadd-noti-center.in-center.body,
+label.deadd-noti-center.in-center.title,
+label.deadd-noti-center.in-center.time,
+button.deadd-noti-center.in-center.actionbutton,
+label.deadd-noti-center.noti-center.date {
+  color: #d4be98;
+  border: none;
+}
+.noti-center.time {
+  color: #d4be98;
+  font-size: 32px;
+}
+
+.notification.body {
+  padding: 5px;
+}
+.notification {
+  border: 1px solid #e78a43;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.appname {
+  font-size: 12px;
+}
+
+.time {
+  font-size: 12px;
+}
+
+.blurredBG.notification {
+  background: #282828;
+}
+
+.blurredBG.notification.critical {
+  background: #ea6962;
+}
+
+.notificationInCenter.critical {
+  background: #ea6962;
+}
+
+.notificationInCenter {
+  border: 1px solid #a9b665;
+  /*border-bottom: 1px solid #a9b665;*/
+  /*border-left: 1px solid #a9b665;*/
+}
+
+/* Labels */
+
+label {
+  color: #ddc7a1;
+}
+
+label.notification {
+  color: green;
+}
+
+label.critical {
+  color: #000;
+}
+.notificationInCenter label.critical {
+  color: #000;
+}
+
+/* Buttons */
+
+button {
+  background: #32302f;
+  border-radius: 0;
+  border: none;
+}
+
+button:hover {
+  background: #1b1b1b;
+  color: #fee;
+}
+
+/* Custom Buttons */
+
+.userbutton {
+  background: rgba(20, 0, 0, 0.15);
+}
+
+.userbuttonlabel {
+  color: #222;
+  font-size: 12px;
+}
+
+.userbutton:hover {
+  background: rgba(20, 0, 0, 0.2);
+}
+
+.userbuttonlabel:hover {
+  color: #111;
+}
+
+button.buttonState1 {
+  background: rgba(20, 0, 0, 0.5);
+}
+
+.userbuttonlabel.buttonState1 {
+  color: #fff;
+}
+
+button.buttonState1:hover {
+  background: rgba(20, 0, 0, 0.4);
+}
+
+.userbuttonlabel.buttonState1:hover {
+  color: #111;
+}
+
+button.buttonState2 {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.userbuttonlabel.buttonState2 {
+  color: #111;
+}
+
+button.buttonState2:hover {
+  background: rgba(20, 0, 0, 0.3);
+}
+
+.userbuttonlabel.buttonState2:hover {
+  color: #000;
+}
+
+/* Images */
+
+image.deadd-noti-center.notification.image {
+  /*padding-left: 20px;*/
+  border: 3px solid red;
+}
